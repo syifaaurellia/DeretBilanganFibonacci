@@ -182,7 +182,7 @@ public class MainActivity extends AppCompatActivity {
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 
-## Code pada menu values (string.xml) :
+## Code pada menu values (strings.xml) :
 ```
 <resources>
     <string name="app_name">FibonacciSequence</string>
